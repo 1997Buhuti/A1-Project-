@@ -118,10 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="education_background_with_funny_icons_1361_1263" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\education-background-with-funny-icons_1361-1263.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="education_background_with_funny_icons_1361_12631" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\education-background-with-funny-icons_1361-1263.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="education_elements_background_flat_style_23_2147758634" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\education-elements-background-flat-style_23-2147758634.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="education_elements_background_flat_style_23_21477586341" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\education-elements-background-flat-style_23-2147758634.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Free" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\free.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="Image1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\image1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Image11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\image1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="StudentA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\StudentA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="StudentA11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\studenta1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="StudentA12" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\studenta1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Studentpic" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Studentpic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Studentpic1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\studentpic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Studentpic2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\resources\studentpic.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

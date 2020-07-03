@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using FontAwesome.Sharp;
+using GuiApp;
 
 namespace A1_Dashboard
 {
@@ -110,13 +111,13 @@ namespace A1_Dashboard
         private void iconButton2_Click(object sender, EventArgs e)
         {
             activateButtonn(sender, colors.color2);
-            OpenChildForm(new Formchild());
+            OpenChildForm(new Form10());
         }
 
         private void iconButton3_Click(object sender, EventArgs e)
         {
             activateButtonn(sender, colors.color3);
-            OpenChildForm(new Form2());
+            OpenChildForm(new Formchild());
         }
 
         private void iconButton4_Click(object sender, EventArgs e)

@@ -55,6 +55,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.designer.cs">
+      <DependentUpon>Form10.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form2.resx">
       <DependentUpon>Form2.cs</DependentUpon>
@@ -113,6 +122,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\StudentA1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\audio1.bmp" />
+    <Content Include="Resources\b72fb5b39a7bf720e2cd8678b95a7689.jpg" />
+    <Content Include="Resources\depositphotos_205095468-stock-photo-back-school-education-concept-orange.jpg" />
+    <Content Include="Resources\depositphotos_205095468-stock-photo-back-school-education-concept-orange1.jpg" />
+    <Content Include="Resources\download %282%29.jpg" />
+    <Content Include="Resources\education-background-with-funny-icons_1361-1263.jpg" />
+    <Content Include="Resources\education-elements-background-flat-style_23-2147758634.jpg" />
+    <Content Include="Resources\Free.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
