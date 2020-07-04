@@ -111,7 +111,7 @@ namespace A1_Dashboard
         private void iconButton2_Click(object sender, EventArgs e)
         {
             activateButtonn(sender, colors.color2);
-            OpenChildForm(new Form10());
+            OpenChildForm(new Form3());
         }
 
         private void iconButton3_Click(object sender, EventArgs e)
