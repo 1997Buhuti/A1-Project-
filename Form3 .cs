@@ -57,7 +57,8 @@ namespace A1_Dashboard
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            CreateStudentForm f1 = new CreateStudentForm();
+            f1.Show();
         }
     }
 }
